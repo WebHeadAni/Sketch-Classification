@@ -1,0 +1,11 @@
+body{
+    background-color: gold;
+}
+#Score{
+    font-size: larger;
+    margin-right: 500px;
+}
+#Timer{
+    font-size: larger;
+    margin-left: 500px;
+}
